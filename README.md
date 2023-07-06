@@ -13,6 +13,15 @@ All credit must goes to the original author [@ZeroMemoryEx](https://github.com/Z
 
 
 # Usage
+- Compilation
+  - Linux
+    ```
+    nim --os:windows --cpu:amd64 --gcc.exe:x86_64-w64-mingw32-gcc --gcc.linkerexe:x86_64-w64-mingw32-gcc c NimBlackout.nim
+    ```
+  - Windows
+    ```
+    nim c NimBlackout.nim
+    ```
 - Put Blackout.sys driver into current directory
 - Launch NimBlackout
   ```
