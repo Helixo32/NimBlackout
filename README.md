@@ -1,6 +1,5 @@
 # NimBlackout
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/blackout-nim/blob/main/LICENSE)
 [![Nim Version](https://img.shields.io/badge/nim-1.6.8-orange.svg)](https://nim-lang.org/)
 
 > **Note**: This project is for educational purposes only. The use of this code for any malicious activity is strictly prohibited. I am not responsible for any misuse of this software.
