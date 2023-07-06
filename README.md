@@ -28,4 +28,4 @@ All credit must goes to the original author [@ZeroMemoryEx](https://github.com/Z
   NimBlackout.exe <process name>
   ```
 
-  In order to prevent restarting process (like MsMpEng.exe), keep the program running.
+In order to prevent restarting process (like MsMpEng.exe), keep the program running.
