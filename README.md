@@ -22,7 +22,7 @@ All credit must goes to the original author [@ZeroMemoryEx](https://github.com/Z
     nim c NimBlackout.nim
     ```
 - Put Blackout.sys driver into current directory
-- Launch NimBlackout
+- Launch NimBlackout (with admin privileges)
   ```
   NimBlackout.exe <process name>
   ```
