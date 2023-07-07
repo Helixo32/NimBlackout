@@ -28,3 +28,7 @@ All credit must goes to the original author [@ZeroMemoryEx](https://github.com/Z
   ```
 
 In order to prevent restarting process (like MsMpEng.exe), keep the program running.
+
+
+# Demo
+![](https://github.com/Helixo32/NimBlackout/blob/main/Github_CrimsonKiller.gif)
