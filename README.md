@@ -8,7 +8,7 @@ NimBlackout is an adaptation of the [@Blackout](https://github.com/ZeroMemoryEx/
 
 The main reason for this project was to understand how BYOVD attacks work, and then to provide a valid PoC developed in Nim.
 
-All credit must goes to the original author [@ZeroMemoryEx](https://github.com/ZeroMemoryEx).
+All credit must go to the original author [@ZeroMemoryEx](https://github.com/ZeroMemoryEx).
 
 
 # Usage
